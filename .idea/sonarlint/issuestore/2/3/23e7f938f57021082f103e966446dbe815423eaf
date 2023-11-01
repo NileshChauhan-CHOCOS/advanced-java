@@ -1,0 +1,15 @@
+
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(‘ïãš8†ôØ§1
+R
+java:S1854$"5Remove this useless assignment to local variable "s".(ÕÁÓ8õïÿÿ§1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8‰ôØ§1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8‰ôØ§1
+L	java:S106"+Replace this use of System.out by a logger.(ÊŒÓÚüÿÿÿÿ8ŠôØ§1
+L	java:S106"+Replace this use of System.out by a logger.(ÊŒÓÚüÿÿÿÿ8‹ôØ§1
+G	java:S106 "+Replace this use of System.out by a logger.(çåµ8ôØ§1
+C
+java:S1481$"&Remove this unused "s" local variable.(ÕÁÓ8ğÿÿ§1
+9
+java:S1116$"Remove this empty statement.(ÕÁÓ8ğÿÿ§1
+G	java:S106%"+Replace this use of System.out by a logger.(çåµ8‘ôØ§1
